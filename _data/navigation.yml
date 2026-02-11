@@ -17,8 +17,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /files/Shawn Gabriel Intong_CV.pdf
+  #- title: "CV"
+  #  url: /files/Resume_MAIpdf
     
   #- title: "Teaching"
   #  url: /teaching/   
